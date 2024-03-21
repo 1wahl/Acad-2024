@@ -1,0 +1,28 @@
+C:\Users\User\Desktop\acad\lista\listadeatividades\bin\Debug\net8.0\listadeatividades.exe
+C:\Users\User\Desktop\acad\lista\listadeatividades\bin\Debug\net8.0\listadeatividades.deps.json
+C:\Users\User\Desktop\acad\lista\listadeatividades\bin\Debug\net8.0\listadeatividades.runtimeconfig.json
+C:\Users\User\Desktop\acad\lista\listadeatividades\bin\Debug\net8.0\listadeatividades.dll
+C:\Users\User\Desktop\acad\lista\listadeatividades\bin\Debug\net8.0\listadeatividades.pdb
+C:\Users\User\Desktop\acad\lista\listadeatividades\obj\Debug\net8.0\listadeatividades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\acad\lista\listadeatividades\obj\Debug\net8.0\listadeatividades.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\acad\lista\listadeatividades\obj\Debug\net8.0\listadeatividades.AssemblyInfo.cs
+C:\Users\User\Desktop\acad\lista\listadeatividades\obj\Debug\net8.0\listadeatividades.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\acad\lista\listadeatividades\obj\Debug\net8.0\listadeatividades.dll
+C:\Users\User\Desktop\acad\lista\listadeatividades\obj\Debug\net8.0\refint\listadeatividades.dll
+C:\Users\User\Desktop\acad\lista\listadeatividades\obj\Debug\net8.0\listadeatividades.pdb
+C:\Users\User\Desktop\acad\lista\listadeatividades\obj\Debug\net8.0\listadeatividades.genruntimeconfig.cache
+C:\Users\User\Desktop\acad\lista\listadeatividades\obj\Debug\net8.0\ref\listadeatividades.dll
+C:\Users\User\Desktop\acad\lista\atividade 6\bin\Debug\net8.0\listadeatividades.exe
+C:\Users\User\Desktop\acad\lista\atividade 6\bin\Debug\net8.0\listadeatividades.deps.json
+C:\Users\User\Desktop\acad\lista\atividade 6\bin\Debug\net8.0\listadeatividades.runtimeconfig.json
+C:\Users\User\Desktop\acad\lista\atividade 6\bin\Debug\net8.0\listadeatividades.dll
+C:\Users\User\Desktop\acad\lista\atividade 6\bin\Debug\net8.0\listadeatividades.pdb
+C:\Users\User\Desktop\acad\lista\atividade 6\obj\Debug\net8.0\listadeatividades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\acad\lista\atividade 6\obj\Debug\net8.0\listadeatividades.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\acad\lista\atividade 6\obj\Debug\net8.0\listadeatividades.AssemblyInfo.cs
+C:\Users\User\Desktop\acad\lista\atividade 6\obj\Debug\net8.0\listadeatividades.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\acad\lista\atividade 6\obj\Debug\net8.0\listadeatividades.dll
+C:\Users\User\Desktop\acad\lista\atividade 6\obj\Debug\net8.0\refint\listadeatividades.dll
+C:\Users\User\Desktop\acad\lista\atividade 6\obj\Debug\net8.0\listadeatividades.pdb
+C:\Users\User\Desktop\acad\lista\atividade 6\obj\Debug\net8.0\listadeatividades.genruntimeconfig.cache
+C:\Users\User\Desktop\acad\lista\atividade 6\obj\Debug\net8.0\ref\listadeatividades.dll
