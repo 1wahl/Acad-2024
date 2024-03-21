@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\acad\calculadora c#\bin\Release\net8.0\calculadora c#.exe
+C:\Users\User\Desktop\acad\calculadora c#\bin\Release\net8.0\calculadora c#.deps.json
+C:\Users\User\Desktop\acad\calculadora c#\bin\Release\net8.0\calculadora c#.runtimeconfig.json
+C:\Users\User\Desktop\acad\calculadora c#\bin\Release\net8.0\calculadora c#.dll
+C:\Users\User\Desktop\acad\calculadora c#\bin\Release\net8.0\calculadora c#.pdb
+C:\Users\User\Desktop\acad\calculadora c#\obj\Release\net8.0\calculadora c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\acad\calculadora c#\obj\Release\net8.0\calculadora c#.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\acad\calculadora c#\obj\Release\net8.0\calculadora c#.AssemblyInfo.cs
+C:\Users\User\Desktop\acad\calculadora c#\obj\Release\net8.0\calculadora c#.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\acad\calculadora c#\obj\Release\net8.0\calculadora c#.sourcelink.json
+C:\Users\User\Desktop\acad\calculadora c#\obj\Release\net8.0\calculadora c#.dll
+C:\Users\User\Desktop\acad\calculadora c#\obj\Release\net8.0\refint\calculadora c#.dll
+C:\Users\User\Desktop\acad\calculadora c#\obj\Release\net8.0\calculadora c#.pdb
+C:\Users\User\Desktop\acad\calculadora c#\obj\Release\net8.0\calculadora c#.genruntimeconfig.cache
+C:\Users\User\Desktop\acad\calculadora c#\obj\Release\net8.0\ref\calculadora c#.dll

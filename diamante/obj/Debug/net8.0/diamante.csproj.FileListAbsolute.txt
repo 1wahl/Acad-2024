@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\acad\diamante\bin\Debug\net8.0\diamante.exe
+C:\Users\User\Desktop\acad\diamante\bin\Debug\net8.0\diamante.deps.json
+C:\Users\User\Desktop\acad\diamante\bin\Debug\net8.0\diamante.runtimeconfig.json
+C:\Users\User\Desktop\acad\diamante\bin\Debug\net8.0\diamante.dll
+C:\Users\User\Desktop\acad\diamante\bin\Debug\net8.0\diamante.pdb
+C:\Users\User\Desktop\acad\diamante\obj\Debug\net8.0\diamante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\acad\diamante\obj\Debug\net8.0\diamante.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\acad\diamante\obj\Debug\net8.0\diamante.AssemblyInfo.cs
+C:\Users\User\Desktop\acad\diamante\obj\Debug\net8.0\diamante.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\acad\diamante\obj\Debug\net8.0\diamante.dll
+C:\Users\User\Desktop\acad\diamante\obj\Debug\net8.0\refint\diamante.dll
+C:\Users\User\Desktop\acad\diamante\obj\Debug\net8.0\diamante.pdb
+C:\Users\User\Desktop\acad\diamante\obj\Debug\net8.0\diamante.genruntimeconfig.cache
+C:\Users\User\Desktop\acad\diamante\obj\Debug\net8.0\ref\diamante.dll
+C:\Users\User\Desktop\acad\diamante\obj\Debug\net8.0\diamante.sourcelink.json
