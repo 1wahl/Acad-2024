@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\estudo\Academia do Programador\jogoadivinhacao\bin\Debug\net8.0\jogoadivinhacao.exe
+C:\Users\User\Desktop\estudo\Academia do Programador\jogoadivinhacao\bin\Debug\net8.0\jogoadivinhacao.deps.json
+C:\Users\User\Desktop\estudo\Academia do Programador\jogoadivinhacao\bin\Debug\net8.0\jogoadivinhacao.runtimeconfig.json
+C:\Users\User\Desktop\estudo\Academia do Programador\jogoadivinhacao\bin\Debug\net8.0\jogoadivinhacao.dll
+C:\Users\User\Desktop\estudo\Academia do Programador\jogoadivinhacao\bin\Debug\net8.0\jogoadivinhacao.pdb
+C:\Users\User\Desktop\estudo\Academia do Programador\jogoadivinhacao\obj\Debug\net8.0\jogoadivinhacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\estudo\Academia do Programador\jogoadivinhacao\obj\Debug\net8.0\jogoadivinhacao.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\estudo\Academia do Programador\jogoadivinhacao\obj\Debug\net8.0\jogoadivinhacao.AssemblyInfo.cs
+C:\Users\User\Desktop\estudo\Academia do Programador\jogoadivinhacao\obj\Debug\net8.0\jogoadivinhacao.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\estudo\Academia do Programador\jogoadivinhacao\obj\Debug\net8.0\jogoadivinhacao.dll
+C:\Users\User\Desktop\estudo\Academia do Programador\jogoadivinhacao\obj\Debug\net8.0\refint\jogoadivinhacao.dll
+C:\Users\User\Desktop\estudo\Academia do Programador\jogoadivinhacao\obj\Debug\net8.0\jogoadivinhacao.pdb
+C:\Users\User\Desktop\estudo\Academia do Programador\jogoadivinhacao\obj\Debug\net8.0\jogoadivinhacao.genruntimeconfig.cache
+C:\Users\User\Desktop\estudo\Academia do Programador\jogoadivinhacao\obj\Debug\net8.0\ref\jogoadivinhacao.dll
