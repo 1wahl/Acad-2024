@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\estudo\Academia do Programador\robotupiniquim\bin\Debug\net8.0\robotupiniquim.exe
+C:\Users\User\Desktop\estudo\Academia do Programador\robotupiniquim\bin\Debug\net8.0\robotupiniquim.deps.json
+C:\Users\User\Desktop\estudo\Academia do Programador\robotupiniquim\bin\Debug\net8.0\robotupiniquim.runtimeconfig.json
+C:\Users\User\Desktop\estudo\Academia do Programador\robotupiniquim\bin\Debug\net8.0\robotupiniquim.dll
+C:\Users\User\Desktop\estudo\Academia do Programador\robotupiniquim\bin\Debug\net8.0\robotupiniquim.pdb
+C:\Users\User\Desktop\estudo\Academia do Programador\robotupiniquim\obj\Debug\net8.0\robotupiniquim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\estudo\Academia do Programador\robotupiniquim\obj\Debug\net8.0\robotupiniquim.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\estudo\Academia do Programador\robotupiniquim\obj\Debug\net8.0\robotupiniquim.AssemblyInfo.cs
+C:\Users\User\Desktop\estudo\Academia do Programador\robotupiniquim\obj\Debug\net8.0\robotupiniquim.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\estudo\Academia do Programador\robotupiniquim\obj\Debug\net8.0\robotupiniquim.dll
+C:\Users\User\Desktop\estudo\Academia do Programador\robotupiniquim\obj\Debug\net8.0\refint\robotupiniquim.dll
+C:\Users\User\Desktop\estudo\Academia do Programador\robotupiniquim\obj\Debug\net8.0\robotupiniquim.pdb
+C:\Users\User\Desktop\estudo\Academia do Programador\robotupiniquim\obj\Debug\net8.0\robotupiniquim.genruntimeconfig.cache
+C:\Users\User\Desktop\estudo\Academia do Programador\robotupiniquim\obj\Debug\net8.0\ref\robotupiniquim.dll
